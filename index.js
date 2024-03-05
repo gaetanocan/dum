@@ -1,7 +1,7 @@
 class DumDum {
     constructor(name) {
       this.name = name || 'DumDum';
-      this.happiness = 50;
+      this.happiness = 10;
     }
   
     eatCandy() {
